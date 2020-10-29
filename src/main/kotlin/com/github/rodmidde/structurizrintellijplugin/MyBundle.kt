@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.rodmidde.structurizrintellijplugin
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
